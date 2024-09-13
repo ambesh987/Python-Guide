@@ -18,4 +18,5 @@ def multiply(x,y):
     mult = x * y
     return mult
 
+# multiply(12,5)
 print(multiply(12,5))
