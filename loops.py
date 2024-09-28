@@ -20,17 +20,17 @@ a = [1,2,3,4,5,6]
 # for i in range(1,11):
 #     if i==6:
 #         # break
-#         continue
+#         # continue
 #     print(i)
 
 
 
 # while 
 
-i=1
-while i<=5:
-    print(i)
-    i+=1
+# i=1
+# while i<=5:
+#     print(i)
+#     i+=1
 
 
 
